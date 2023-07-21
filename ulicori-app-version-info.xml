@@ -4,9 +4,9 @@
 	<channel>
 		<title>ULICORI</title>
 		<item>
-			<title>Version 1.0.2</title>
-			<description>Mejora en el login del app</description>
-			<pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+			<title>Version 1.0.3</title>
+			<description>Se agrega funcionalidad para poder realizar el ingreso al app con el correo institucional</description>
+			<pubDate>Thu, 21 Jul 2023 00:00:00 +0000</pubDate>
 			<enclosure url="https://play.google.com/store/apps/details?id=com.acamsys.student_app.ulicori" sparkle:version="1.0.2" sparkle:os="android" />
 			<sparkle:tags>
 				<sparkle:criticalUpdate />
