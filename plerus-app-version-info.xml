@@ -13,10 +13,10 @@
 			</sparkle:tags>
 		</item>
 		<item>
-			<title>Version 1.0.3</title>
-			<description>Se agrega funcionalidad para poder realizar el ingreso al app con el correo institucional</description>
-			<pubDate>Thu, 26 Jul 2023 00:00:00 +0000</pubDate>
-			<enclosure url="https://apps.apple.com/app/id6451272164" sparkle:version="1.0.3" sparkle:os="iOS" />
+			<title>Version 1.0.4</title>
+			<description>Mejora en estabilidad del app</description>
+			<pubDate>Thu, 22 Ago 2023 00:00:00 +0000</pubDate>
+			<enclosure url="https://apps.apple.com/app/id6451272164" sparkle:version="1.0.4" sparkle:os="iOS" />
 			<sparkle:tags>
 				<sparkle:criticalUpdate />
 			</sparkle:tags>
