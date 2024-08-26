@@ -4,10 +4,10 @@
 	<channel>
 		<title>UIN</title>
 		<item>
-			<title>Version 1.0.0</title>
+			<title>Version 1.1.1</title>
 			<description>App</description>
-			<pubDate>Thu, 22 Ago 2023 00:00:00 +0000</pubDate>
-			<enclosure url="https://play.google.com/store/apps/details?id=com.acamsys.student_app.uin" sparkle:version="1.0.0" sparkle:os="android" />
+			<pubDate>Thu, 26 Aug 2024 00:00:00 +0000</pubDate>
+			<enclosure url="https://play.google.com/store/apps/details?id=com.acamsys.student_app.uin" sparkle:version="1.1.1" sparkle:os="android" />
 			<sparkle:tags>
 				<sparkle:criticalUpdate />
 			</sparkle:tags>
