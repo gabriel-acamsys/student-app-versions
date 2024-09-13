@@ -13,10 +13,10 @@
 			</sparkle:tags>
 		</item>
 		<item>
-			<title>Version 1.1.0</title>
-			<description>Mejora en estabilidad del app</description>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-			<enclosure url="https://apps.apple.com/app/id6451003194" sparkle:version="1.1.0" sparkle:os="iOS" />
+			<title>Version 1.1.2</title>
+			<description>App</description>
+			<pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+			<enclosure url="https://apps.apple.com/app/id6451003194" sparkle:version="1.1.2" sparkle:os="iOS" />
 			<sparkle:tags>
 				<sparkle:criticalUpdate />
 			</sparkle:tags>
