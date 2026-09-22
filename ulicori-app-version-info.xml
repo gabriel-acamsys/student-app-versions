@@ -4,10 +4,10 @@
 	<channel>
 		<title>ULICORI</title>
 		<item>
-			<title>Version 1.1.2</title>
-			<description>Mejora en estabilidad del app</description>
-			<pubDate>Wed, 10 Sep 2024 00:00:00 +0000</pubDate>
-			<enclosure url="https://play.google.com/store/apps/details?id=com.acamsys.student_app.ulicori" sparkle:version="1.1.2" sparkle:os="android" />
+			<title>Version 2.0.1</title>
+			<description>Mejora en el app</description>
+			<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+			<enclosure url="https://play.google.com/store/apps/details?id=com.acamsys.student_app.ulicori" sparkle:version="2.0.1" sparkle:os="android" />
 			<sparkle:tags>
 				<sparkle:criticalUpdate />
 			</sparkle:tags>
